@@ -1,24 +1,7 @@
 {
   
     "id": 1,
-    "montant_total": 50.75,
-    "ice": "123456789",
-    "liste_produits": [
-      {
-        "id": 101,
-        "nom": "Produit A",
-        "prix": 10.99
-      },
-      {
-        "id": 102,
-        "nom": "Produit B",
-        "prix": 20.49
-      },
-      {
-        "id": 103,
-        "nom": "Produit C",
-        "prix": 5.75
-      }
-    ]
-  
+    "montant": 50.75,
+    "ice": "123456789"
+    "nom":"marjane"
 }
