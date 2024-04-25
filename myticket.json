@@ -9,6 +9,11 @@
     "logo": "url_du_logo",
     "website": "url_du_site_web"
   },
+   "magazin": {
+    "ville": "Nom de la ville",
+    "adresse": "Adresse du magasin",
+    "telephone": "Numéro de téléphone du magasin"
+  }
   "produits": [
     {
       "reference": "REF123",
@@ -33,4 +38,5 @@
       }
     }
   ]
+  
 }
