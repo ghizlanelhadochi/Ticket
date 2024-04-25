@@ -1,24 +1,26 @@
 {
-    "montant": 50.75,
-    "ice": "123456789",
-    "nom": "marjane",
-    "produits": [
-        {
-            "reference": "REF123",
-            "description": "Description du produit 1",
-            "quantity": 2,
-            "prix": 10.50,
-            "ht": 21.00,
-            "tva": 0.20
-        },
-        {
-            "reference": "REF456",
-            "description": "Description du produit 2",
-            "quantity": 1,
-            "prix": 15.75,
-            "ht": 15.75,
-            "tva": 0.00
-        }
-    ]
-}
+  "number": 123456, 
+  "montant": 50.00,
+  "date": "2024-04-25",
+  "time": "08:30:00",
+  "produits": [
+    {
+      "reference": "REF123",
+      "description": "Description du produit",
+      "quantity": 1,
+      "prix": 20.00,
+      "ht": 16.67,
+      "tva": 3.33
+    },
+    {
+      "reference": "REF456",
+      "description": "Description du produit",
+      "quantity": 2,
+      "prix": 15.00,
+      "ht": 12.50,
+      "tva": 2.50
 
+    }
+  ],
+
+}
