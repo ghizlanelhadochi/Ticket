@@ -1,7 +1,24 @@
 {
-  
-    "id": 1,
     "montant": 50.75,
     "ice": "123456789",
-    "nom":"marjane"
+    "nom": "marjane",
+    "produits": [
+        {
+            "reference": "REF123",
+            "description": "Description du produit 1",
+            "quantity": 2,
+            "prix": 10.50,
+            "ht": 21.00,
+            "tva": 0.20
+        },
+        {
+            "reference": "REF456",
+            "description": "Description du produit 2",
+            "quantity": 1,
+            "prix": 15.75,
+            "ht": 15.75,
+            "tva": 0.00
+        }
+    ]
 }
+
