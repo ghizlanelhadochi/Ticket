@@ -13,7 +13,7 @@
     "ville": "Nom de la ville",
     "adresse": "Adresse du magasin",
     "telephone": "Numéro de téléphone du magasin"
-  }
+  },
   "produits": [
     {
       "reference": "REF123",
