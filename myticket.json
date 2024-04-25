@@ -6,7 +6,7 @@
    "magazin": {
     "ville": "Nom de la ville",
     "adresse": "Adresse du magasin",
-    "telephone": "Numéro de téléphone du magasin"
+    "telephone": "Numéro de téléphone du magasin",
     "marque": {
            "ice": "123456789",
            "nom": "Nom de la marque",
