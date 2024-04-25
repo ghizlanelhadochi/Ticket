@@ -3,6 +3,12 @@
   "montant": 50.00,
   "date": "2024-04-25",
   "time": "08:30:00",
+   "marque": {
+    "ice": "123456789",
+    "nom": "Nom de la marque",
+    "logo": "url_du_logo",
+    "website": "url_du_site_web"
+  },
   "produits": [
     {
       "reference": "REF123",
