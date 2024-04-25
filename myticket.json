@@ -10,7 +10,10 @@
       "quantity": 1,
       "prix": 20.00,
       "ht": 16.67,
-      "tva": 3.33
+      "tva": 3.33,
+      "category": {
+        "type": "Type de la catégorie"
+      }
     },
     {
       "reference": "REF456",
@@ -18,7 +21,10 @@
       "quantity": 2,
       "prix": 15.00,
       "ht": 12.50,
-      "tva": 2.50
+      "tva": 2.50,
+      "category": {
+        "type": "Type de la catégorie"
+      }
     }
   ]
 }
