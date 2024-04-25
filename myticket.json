@@ -11,7 +11,7 @@
            "ice": "123456789",
            "nom": "Nom de la marque",
            "logo": "url_du_logo",
-           "website": "url_du_site_web"
+           "website": "url_du_site_web",
        },
   },
   "produits": [
