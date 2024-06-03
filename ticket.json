@@ -7,7 +7,7 @@
     "adresse": "Adresse du magasin",
     "telephone": "Numéro de téléphone du magasin",
     "marque": {
-      "ice": "123456789",
+      "ice": "12789",
       "nom": "Nom de la marque",
       "logo": "https://trendtype.com/wp-content/uploads/2017/12/Marjane.jpg",
       "website": "url_du_site_web"
