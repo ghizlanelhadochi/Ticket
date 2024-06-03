@@ -1,5 +1,4 @@
 {
-  "number": 5666,
   "montant": 50.00,
   "date": "2024-04-25",
   "time": "08:30:00",
@@ -10,7 +9,7 @@
     "marque": {
       "ice": "123456789",
       "nom": "Nom de la marque",
-      "logo": "url_du_logo",
+      "logo": "https://trendtype.com/wp-content/uploads/2017/12/Marjane.jpg",
       "website": "url_du_site_web"
     }
   },
