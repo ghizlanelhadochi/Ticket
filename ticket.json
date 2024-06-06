@@ -13,7 +13,6 @@
   },
   "produits": [
     {
-      "reference": "REF123",
       "description": "Description du produit",
       "quantity": 1,
       "prix": 20.00,
@@ -24,7 +23,6 @@
       }
     },
     {
-      "reference": "REF456",
       "description": "Description du produit",
       "quantity": 2,
       "prix": 15.00,
