@@ -13,7 +13,7 @@
   },
   "produits": [
     {
-      "description": "Description du produit",
+      "description": "lait",
       "quantity": 1,
       "prix": 20.00,
       "ht": 16.67,
@@ -23,7 +23,7 @@
       }
     },
     {
-      "description": "Description du produit",
+      "description": "cofee",
       "quantity": 2,
       "prix": 15.00,
       "ht": 12.50,
