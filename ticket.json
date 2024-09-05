@@ -1,5 +1,5 @@
 {
-  "montant": 150.00,
+  "montant": 230.00,
   "magazin": {
     "ville": "Nom de la ville",
     "adresse": "Adresse du magasin",
@@ -13,8 +13,8 @@
   },
   "produits": [
     {
-      "description": "lait",
-      "quantity": 1,
+      "description": "Chocolat",
+      "quantity": 6,
       "prix": 20.00,
       "ht": 16.67,
       "tva": 3.33,
@@ -23,7 +23,7 @@
       }
     },
     {
-      "description": "cofee",
+      "description": "coca cola",
       "quantity": 2,
       "prix": 15.00,
       "ht": 12.50,
